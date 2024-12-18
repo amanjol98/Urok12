@@ -1,0 +1,81 @@
+#color {
+    color: red;
+}
+
+#font-size {
+    font-size: 22px;
+}
+
+#text-align {
+    text-align: end;
+}
+
+#font-weight {
+    font-weight: bolder;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    color: blue;
+}
+
+#main-text {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#main-text2 {
+    font-size: 25px;
+}
+
+.container {
+    background-color: blueviolet;
+    color: aquamarine;
+}
+
+body {
+    background-image: url(https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg);
+}
+
+#block1 {
+    margin: 20px;
+    padding: 20px;
+    border: 5px solid red;
+}
+
+#block2 {
+    margin: 10px;
+    padding: 50px;
+    border: 10px solid blue;
+}
+
+#block3 {
+    margin: 30px;
+    padding: 40px;
+    border: 10px solid yellowgreen;
+}
+
+#q1 {
+    background-color: bisque;
+    width: 100px;
+    height: 100px;
+    overflow: visible;
+}
+
+#q2 {
+    background-color: aqua;
+    width: 70px;
+    height: 100px;
+    overflow: hidden;
+}
+
+#q3 {
+    background-color: aliceblue;
+    width: 150px;
+    height: 120px;
+    overflow: scroll;
+}
